@@ -296,4 +296,9 @@ public class MainActivity extends AppCompatActivity implements XRecyclerView.Loa
             //this.list.add(item);
         }
     }
+
+    public void addClassName(){
+
+
+    }
 }
